@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Mercel Assignment</title>
+        <title>Mercle Assignment</title>
         <meta name="description" content="Built By Dhruv Bakshi" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
